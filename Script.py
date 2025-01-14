@@ -265,7 +265,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/RM_Movi">{file_name}</a></b>\n\n<b>⚜ Powered By : <a href=https://t.me/RM_Movie_Flix>[RM Mσʋιҽ Fʅιx]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/RM_Movi">{file_name}</a></b>\n\n<b><blockquote>Powered By : <a href=https://t.me/RM_Movie_Flix>RM Mσʋιҽ Fʅιx</a></blockquote></b>"""
 
     IMDB_TEMPLATE_TXT = """
 <b>🏷 Title</b>: <a href={url}>{title}</a>
